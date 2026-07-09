@@ -38,8 +38,6 @@
 
 ---
 
-## 🚀 Getting Started
-
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18+)
 - A [Firebase](https://firebase.google.com/) Project with Firestore & Authentication enabled
@@ -47,7 +45,3 @@
 
 ---
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Asceptic07/Ajeet-Home-Appliances-.git
-cd Ajeet-Home-Appliances-
